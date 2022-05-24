@@ -1,13 +1,13 @@
-## Meeting Time: 5:00pm PDT (UT-7), Tuesday July 6th, 2021. Note the unusual date because Independence Day Holiday.
+## Meeting Time: 5:00pm PDT (UT-7), Tuesday July 5th, 2022. Note the unusual date because of Independence Day Holiday.
 Connection details will be sent via email
 
-Instructors: Fei, Priya, Anamitra
+Instructors: 
 
 ### Agenda:
 * Intro
 * TESS tutorial
 * Overleaf tutorial
-* Paper discussion
+* Paper discussion of [Exoplanet Size Distribution](https://www.pnas.org/content/116/20/9723)
 
 ### 1: Intro
 * Check-in. How did the tutorials go?
@@ -24,8 +24,8 @@ Instructors: Fei, Priya, Anamitra
 * Equations, Figures, Tables
 
 
-### Paper of the Week:
-[Growth model interpretation of planet size distribution](https://drive.google.com/file/d/1dSFWhcip5TK61KJ6jm-whv3R7cEWgP57/view?usp=sharing) (Zeng et al. 2019)
+### Paper for next Week:
+[Exoplanets with James Webb Space Telescope](https://ntrs.nasa.gov/api/citations/20180004151/downloads/20180004151.pdf)
 
 ### Assignments for this Week
 

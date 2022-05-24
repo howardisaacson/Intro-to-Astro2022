@@ -1,4 +1,4 @@
-## First Meeting: June 14th, 2021: 5:00pm Pacific Daylight Time (UT-7). 
+## First Meeting: June 13th, 2022: 5:00pm Pacific Daylight Time (UT-7).
 
 Connection Details will be sent via email.
 
@@ -11,10 +11,10 @@ Connection Details will be sent via email.
 
 
 ## Announcement about Piazza:
-* [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other. 
-* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2020/astr101) and with the access code astr101.
+* [Piazza](https://piazza.com/) is a free service for students to communicate with instructors and with each other.
+* You can join our class page at [this link](https://piazza.com/intro_to_astro/summer2022/intro2astro2022) and with the access code intro2astro2022.
 * If you have questions about assignments, readings, etc. (either logisitical or technical), please post them on Piazza.
-* There is an option to post anonymously. 
+* There is an option to post anonymously.
 * We will periodicially ask you to post questions, reply to other students' questions, etc. on Piazza.
 * Make sure you familiarize yourself with the Piazza platform this week.
 
@@ -33,7 +33,7 @@ Connection Details will be sent via email.
  * Finish writing your goals for this program if you did not finish during the session.
 
 ### Assignment 1) Complete the Data Carpentry workshop on the Unix command shell
-The Unix shell is the basis for scientific computing. By mastering shell commands you will save 
+The Unix shell is the basis for scientific computing. By mastering shell commands you will save
 yourself hours of time in the future. What seems like a small investment will pay dividends again and again.
 
 Right now, follow this link to the setup page. You will need to do this on your own, either with the class or offline
@@ -47,8 +47,8 @@ Deliverable:
 
 ### Assignment 2) Complete the Git tutorial on the Software Carpentry website:
 
-Git is a powerful and ubiquitous versioning tool for software development, 
-though all of the vocabulary and mechanics can take some getting used to. Work through this Git tutorial to 
+Git is a powerful and ubiquitous versioning tool for software development,
+though all of the vocabulary and mechanics can take some getting used to. Work through this Git tutorial to
 reinforce some of the features we discussed this week and learn about concepts we didn't have a chance to cover.
 
 https://swcarpentry.github.io/git-novice/
@@ -68,7 +68,7 @@ http://swcarpentry.github.io/python-novice-inflammation/
 
 Deliverable:
    Save each of the plots that you create with the tutorial and save them in your google drive folder.
-   
+
 ### Paper of the week: Assignment 4) Read this exoplanet review paper:
 
 * Exoplanets Review by Lee (2018). (https://arxiv.org/abs/1804.08907 link also in Google Drive)
@@ -79,9 +79,9 @@ Deliverable:
 
 
 ### Bonus Round (Intended for everyone. see how far you can get)
-Command line Ninjas begin their training with the most simple commands they use everyday and eventually obtain 
+Command line Ninjas begin their training with the most simple commands they use everyday and eventually obtain
 more and more skills. Follow the link below and see how far you get in the command-line-challenge. Be sure to
-keep track of you progress so that you can report back. 
+keep track of you progress so that you can report back.
 
 https://cmdchallenge.com
 

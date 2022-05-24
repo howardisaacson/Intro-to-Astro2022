@@ -31,3 +31,4 @@ Keep a note with overall questions you have about the paper. Some of these you m
 For more on how to effectively read a science paper, see the advice on astrobites, an website of astronomy- and academia-related articles run by astronomers and students:
 
 https://astrobites.org/2011/04/19/journal-articles-in-astronomy/
+https://www.science.org/content/article/how-seriously-read-scientific-paper
