@@ -1,4 +1,4 @@
-# Intro-to-Astro-2021
+# Intro-to-Astro-2022
 An free introduction to astronomy research for aspiring students/researchers/enthusiasts
 
 [(Formerly: Introduction-to-Astronomy-Research)](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018) and
