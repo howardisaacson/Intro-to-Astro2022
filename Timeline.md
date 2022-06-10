@@ -1,6 +1,6 @@
-# Timeline for Summer 2021.  June 14th - August 6th
+# Timeline for Summer 2022.  June 13th - August 5th
 
-## Week 1. Group Leaders: TBD (week of June 14th)
+## Week 1. Group Leaders: Chetan, Maria, Tim, Jack
 * GitHub: Version Control, git-clone vs downloading repositories.
 * Unix primer: (cd, ls, ssh, emacs) (Google cloud instance)
 * Coding programs: Textwrangler, PyCharm, Atom, or Sublime Text.
@@ -30,9 +30,9 @@
 ### Paper of the week:
 Exoplanets Review by Lee (2018). (link in Google Drive)
 
-## Week 2 (Group Leader: TBD) (week of June 21st)
+## Week 2 (Group Leader: Shubh, Hrishabh, Priya, Tim) (week of June 20th)
 
-* Pandas: (Leader: TBD)
+* Pandas: 
    * http://pandas.pydata.org/pandas-docs/stable/10min.html
 
 * Matplotlib:
@@ -45,11 +45,11 @@ Exoplanets Review by Lee (2018). (link in Google Drive)
     Plotting: linear vs log space
     
 ### Paper of the week: 
-"Life Outside the Solar System"  by Su-Shu Huang  (Also in google drive)
-https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican0460-55.pdf 
+Paper on Proxima b
+https://www.pnas.org/doi/pdf/10.1073/pnas.1706680114
 
 
-## Week 3 Group Leader: TBD (week of June 28th)
+## Week 3 Group Leader: Priya, Chetan, Jack, Maria (week of June 27th)
  * GAIA and SQL interface (online Astronomy Archives)
    * Distances,  Astronometry, Stellar Parameters
  * NASA Exoplanet Archive
@@ -62,13 +62,12 @@ https://www.nature.com/scientificamerican/journal/v202/n4/pdf/scientificamerican
    * This includes an opportunity to be on a research paper.
  
 ### Paper of the week:
-An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014)
-http://science.sciencemag.org/content/344/6181/277.full (Science Version)
-https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
+Exoplanet Size Distribution
+https://arxiv.org/abs/1906.04253
 
 
-## Week 4 Group Leader: TBD (week of July 5th)
-* TESS tutorial (Leader: TBD)
+## Week 4 Group Leader: Sam, Maria, Anamitra, Priya (week of July 4th)
+* TESS tutorial
   * Download TESS data
   * *Extra Credit* For a Kepler tutorial, please see [Intro2Astro 2018](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018/blob/master/Week6_kepler_photometry/Kepler_Photometry_Tutorial.ipynb)
 
@@ -76,40 +75,38 @@ https://arxiv.org/pdf/1404.5667.pdf (ArXive Version, free)
 * Linear Fitting, Chi-squared.
 
 ### Paper of the week:
-Zeng (2019), link in Google Drive.
+James Webb Space Telescope and Exoplanets
+https://ntrs.nasa.gov/api/citations/20180004151/downloads/20180004151.pdf
 
 
-## Week 5  Group Leader: TBD  (week of July 12th)
-* RadVel - Fitting Radial Velocities.
-* Additional Fitting methods.
-
-### Paper of the week:
-The Role of Identity in Astronomy:
-Article: Whistling Vivaldi (link in google drive)
 
 
-## Week 6 Group Leader: TBD (week of July 19th)
+## Week 5 Group Leader: Himanshu, Jared, Fei, Sam (week of July 11th)
 * Build a website using wix.com (Leader: TBD) 
     * What belongs on an academic website. 
     * Alternate methods: google sites. github sites.
  * make a CV using Overleaf.com 
-
-### Paper of the week:
-No paper assigned this week.
-
-
-## Week 7 Group Leader: TBD (week of July 26th)
- *  SETI (Searching for Extra-Terrestrial Intelligence)
- *  Statistics: median/mean/mode leading into outlier rejection and uncertainty (Leader: TBD)
- *  Photon Statistics: Detector noise and how to measure the strength of your detection
  *  Website Review.
  *  CV review will take place offline.
 
 ### Paper of the week:
-Arnold (2005), https://www.pnas.org/content/116/20/9723, Also available in Google Drive.
+Paper on Planet Geology
+
+## Week 6  Group Leader: Caitlin  (week of July 18th)
+*Discussion on Planet Geology
+
+### Paper of the week:
+Planet Imaging paper
+https://arxiv.org/pdf/1810.02031.pdf
+
+## Week 7 Group Leader: Jared, Fei, Shubh (week of July 25th)
+ * RadVel - Fitting Radial Velocities.
+ * Additional Fitting methods.
+ * Final Project
+
+### Paper of the week:
+No paper assigned, focus on final project
 
 ## Week 8. Group Leader: TBD, (week of August 2nd, Final day of program is Aug 6th)
-* Advanced Overleaf, Advanced LaTex  
-* Continue discussion of Research topics.
-* Paper Discussion.
+* REU Opportunities avaiable
 * Final Project due by Aug 6th.
