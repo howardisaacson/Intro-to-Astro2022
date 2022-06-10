@@ -2,12 +2,19 @@
 An free introduction to astronomy research for aspiring students/researchers/enthusiasts
 
 [(Formerly: Introduction-to-Astronomy-Research)](https://github.com/howardisaacson/Introduction-to-Astronomy-Research-2018) and
-[Intro2Astro2019](https://github.com/howardisaacson/Intro-to-Astro-2019) and
-[Intro2Astro2020](https://github.com/howardisaacson/Intro-to-Astro-2020)
+[Intro2Astro2019](https://github.com/howardisaacson/Intro-to-Astro-2019),
+[Intro2Astro2020](https://github.com/howardisaacson/Intro-to-Astro-2020) and [Intro2Astro2021](https://github.com/howardisaacson/Intro-to-Astro-2021)
+
+##Live Stream Link:
+We will be live streaming the 2022 class on Youtube on Mondays 5pm PST from Jun 13th to Aug 1st at:
+https://youtu.be/sMK_ggEVsqA
+
+##Course Website
+https://sites.google.com/view/intro-2-astro
 
 ## Enrollment for the 2022 course is now open at https://sites.google.com/view/intro-2-astro
 
-### The 2021 course videos are up at: https://www.youtube.com/channel/UC_ZmUfnIK2hGheKuikVySWQ
+### The 2021 course videos are up on Youtbue: https://www.youtube.com/channel/UC_ZmUfnIK2hGheKuikVySWQ
 
 ## Announcement:
 Check this link to [Pathways to Science website ](https://pathwaystoscience.org/Undergrads.aspx) to find Summer 2021 Undergraduate Research Opportunities including SETI opportunities at [Breakthrough Listen](https://seti.berkeley.edu/Internship.html) and Berkeley SETI Research Center.
