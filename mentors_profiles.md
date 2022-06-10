@@ -1,17 +1,13 @@
-Summer 2020 Mentors:
+Summer 2022 Mentors:
 
-- Sarah Blunt
-
-- Isabel Angelo
-
-- Tim Sanders
-
-- Ryan Rubenzahl
-
-- Joey Murphy
-
-- Aldo Panfichi
-
-- Sofia Sheikh
-
-- Isaac Malsky
+Anamitra Kundu
+Priya Hasan
+Chetan Chawla
+Jack Lubin
+Jared Siegel
+Timothy Holt
+Maria Vincent
+Samuel Yee
+Shubh Agrawal
+Hrishabh Srivastava
+Himanshu Bhisikar
