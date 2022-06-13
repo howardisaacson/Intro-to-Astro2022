@@ -1,6 +1,6 @@
 ## First Meeting: June 13th, 2022: 5:00pm Pacific Daylight Time (UT-7).
 
-Connection Details will be sent via email.
+Youtube Live Stream: https://youtu.be/sMK_ggEVsqA
 
 ## Agenda:
 * Introductions
