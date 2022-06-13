@@ -11,7 +11,7 @@ https://ui.adsabs.harvard.edu
 
 ADS is a database where journal articles in astrophysics are stored. You can query the database by typing in the author, title, or other relevant information about a paper. The search engine will return a list of matches to your search, from which you can find the paper you are looking for.
 
-Take one of the articles referenced in this week's paper and use the ADS to find it. From the ADS, write a brief description of the article in your own words, as well as copy the LaTax citation or store the article in the citation manager of your choice.
+Use the ADS to find the discovery paper for your favorite exoplanet system using the ADS, write a brief description of the article in your own words. You should also copy the LaTax citation or store the article in the citation manager of your choice.
 
 ## Downloading and Storing Papers:
 Mendeley is a great application to track the many scientific papers that you will use throughout your careers.
