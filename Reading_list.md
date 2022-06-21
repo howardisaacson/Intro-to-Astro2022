@@ -3,14 +3,14 @@ Astronomers conduct much of their reading online, but a good collection of books
 
 
 Readings by assigned week :
-* Week1: Explanets Review, by Lee
-* week2: "Life Outside the Solar System" by Su-Shu Huang 
-* Week3: An Earth-sized Planet in the Habitable Zone of a Cool Star (Quintana et al. 2014) 
-* Week4: Planet Size Distribution - Zeng (2019) 
-* Week5: Whistling Vivaldi - Imposter Syndrome
-* Week6: Imaging paper?
+* Week1: Explanets Review, by Lee https://arxiv.org/abs/1804.08907
+* week2: Planets of the Proxima Centauri System https://www.pnas.org/doi/pdf/10.1073/pnas.1706680114
+* Week3: Planet Size Distribution - Zeng (2019) https://arxiv.org/abs/1906.04253
+* Week4: James Webb Space Telescope and Exoplanets https://ntrs.nasa.gov/api/citations/20180004151/downloads/20180004151.pdf
+* Week5: Planet Geology
+* Week6: Planet Imaging paper https://arxiv.org/pdf/1810.02031.pdf, https://arxiv.org/pdf/1210.2471.pdf (slightly outdated)
 * Week7: Transit Lightcurves of Artificial Objects - Arnold (2005)
-* Week8: No paper assigned
+
 
 
 * Astronomy
