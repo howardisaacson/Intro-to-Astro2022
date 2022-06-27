@@ -19,8 +19,9 @@ Instructors:
 * Walkthrough of the TOI list.
 
 ### 3. Tutorial on Overleaf:
-* Creating and saving a document.
+* What is Overleaf and Latex
 * Choice of template
+* Overleaf layout and creating a document
 * Equations, Figures, Tables
 
 
@@ -30,5 +31,5 @@ Instructors:
 ### Assignments for this Week
 
 1. Complete the TESS tutorial. Which TESS planet did you choose to rediscover and why?
-2. Complete the tutorials on Overleaf.
+2. Complete the tutorials on Overleaf, and write a sample document based on you favourite topic in Astronomy following guidelines in document
 3. Look through this [Dropbox](https://www.dropbox.com/sh/jkslarj06iuvq2e/AAB5PENEy83B5rHihd2x9nEQa?dl=0) full of readings about race, gender, and other identities & the scientific community. Spend an hour (time yourself) reading whatever interests you. Write a two paragraph reflection about what you read.
