@@ -27,15 +27,13 @@ Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to
   - Plotting a color-magnitude diagram
 
 ### Discussion Questions
-1. O, B, and A-type stars are the most massive (i.e. most luminous) types of stars. This means they also have the largest habitable zones (see the last figure in ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing)). Why, then, are they poor targets in the search for life-bearing planets?
-2. How does the multiplicity of stellar systems (i.e. single stars vs binaries, triples, etc.) affect the prospects for finding life on planets?
-3. If you had to distill the "ingredients" for producing intelligent life on a planet down to a short list, what would it be?
-4. After reading ["Life Outside the Solar System"](https://drive.google.com/file/d/1V9Aw3sex06C6Gtlo7yzfwpsQZ2VUP9BZ/view?usp=sharing), has your opinion changed about whether or not we'll ever discover life around another star?
+1. How does the multiplicity of stellar systems (i.e. single stars vs binaries, triples, etc.) affect the prospects for finding life on planets?
+2. Do you think the distance based habitable-zone is a good indicator for possibility to hold life? If you had to distill the "ingredients" for producing intelligent life on a planet down to a short list, what would it be?
 
 ## Assignments for this Week
 
 ### I NASA Exoplanet Archive tutorial
-Complete sections 3 and 4 in Joey's Jupyter notebook tutorial on how to use the NASA Exoplanet Archive (see instructions inside notebook).
+Complete sections 3, 4, and 5 in NASA Exoplanet Archive Jupyter notebook tutorial (see instructions inside notebook).
 
 ### II Gaia Database tutorial
 The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! You'll be plotting a Color-Magnitude Diagram of the 10,000 Closest Stars.
