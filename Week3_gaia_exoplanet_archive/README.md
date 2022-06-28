@@ -34,14 +34,14 @@ Feel free to share some of your thoughts on [Piazza](https://piazza.com/intro_to
 
 ### I NASA Exoplanet Archive tutorial
 Complete sections 3, 4, and 5 in NASA Exoplanet Archive Jupyter notebook tutorial (see instructions inside notebook).
+Post your answers to section 5 on [Piazza note @30](https://piazza.com/class/l3j39nx56bkxf?cid=30)
 
 ### II Gaia Database tutorial
-The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! You'll be plotting a Color-Magnitude Diagram of the 10,000 Closest Stars.
-Bonus Questions:
-  - Compare your results against Figure 1 and Figure 2 in this paper: [Babusiaux et al. (2018)](https://arxiv.org/pdf/1804.09378.pdf)
-  - What similarities and differences do you notice?
-  - Challenge 1 : read section 2.1 of this paper and try to reproduce their plot exactly.
-  - Challenge 2: Go to Week1 Python and Jupyter Intro.ipynb and try making the 3D plot with the 10,000 closest stars data you fetched
+The tutorial questions are at the bottom of the 'GaiaTutorialAssignment.ipynb' file. Make sure you try working with ADQL and do some test queries beforehand! 
+1. Download the data for the closest 10,000 stars using ADQL
+2. Plot HR Diagram for a few other clusters (NGC 1893, M4, NGC 581) to see the similarities and differences in HRDs.
+More details in the assignment
+
 ### III Discussion Questions
 Choose 2 discussion questions (above) to respond to in your online notebook.
 
