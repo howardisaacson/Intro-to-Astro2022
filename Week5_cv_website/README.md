@@ -23,7 +23,7 @@ README:
 
 6. Check your work from last week against the tutorial answer key (posted in week 4 folder)
 
-7. Reading for next week by Caitlin
+7. Reading for next week https://drive.google.com/file/d/1e5xYXphGiXaAegqp_JOQaVXd9J2JXae1/view?usp=sharing
 
 
 ### Resources:
