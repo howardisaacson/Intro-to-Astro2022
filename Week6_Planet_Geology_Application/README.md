@@ -1,6 +1,6 @@
 # Agenda:
 
-### Guest Lecture by Caitline on Planet Geology
+### Guest Lecture by Caitlin on Planet Geology
 
 ### Graduate School Application
 
